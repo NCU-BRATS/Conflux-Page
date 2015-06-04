@@ -1,2 +1,3 @@
-# NCU-Brats.github.io
-Sources of the pages of the NCU-Brats.github.io website.
+# Conflux-Page
+This repository is a static web page for introducing our project Conflux.
+
